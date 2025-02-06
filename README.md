@@ -81,7 +81,7 @@ _Integração com o Microsoft Teams diretamente na barra de tarefas para facilit
 ## A arquitetura do Windows é composta por três camadas principais:
 
  
-**Kernel**: Núcleo do sistema operacional, responsável por gerenciar o hardware, processos, memória e segurança do sistema.
+> **Kernel**: Núcleo do sistema operacional, responsável por gerenciar o hardware, processos, memória e segurança do sistema.
   
 > **Interface Gráfica (GUI)**: Camada visual com a qual o usuário interage, oferecendo janelas, ícones e menus para facilitar a navegação e o uso do sistema.
 
